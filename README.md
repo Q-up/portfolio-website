@@ -1,3 +1,3 @@
 # Personal Portfolio
-## Quincey Hollmanß
+## Quincey Hollman
 ###### Hello! I am a software engineering apprentice at Techtonica.
